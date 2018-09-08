@@ -72,8 +72,8 @@ public class PostgresCollector extends DBCollector {
         String[] outStr = out.getString(1).split(" ");
         String[] verStr = outStr[1].split("\\.");
         this.version.append(verStr[0]);
-        this.version.append(".");
-        this.version.append(verStr[1]);
+//        this.version.append(".");
+//        this.version.append(verStr[1]);
       }
 
       // Collect DBMS parameters
@@ -84,11 +84,12 @@ public class PostgresCollector extends DBCollector {
 
       // Collect DBMS internal metrics
       String[] pgStatViews = PG_STAT_VIEWS;
+/*
       if (Float.parseFloat(this.version.toString()) < 9.4) {
         this.oldVersion = true;
         pgStatViews = PG_STAT_VIEWS_OLD_VERSION;
       }
-
+*/
       for (String viewName : pgStatViews) {
         out = s.executeQuery("SELECT * FROM " + viewName);
         pgMetrics.put(viewName, getMetrics(out));

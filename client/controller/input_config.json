@@ -1,0 +1,9 @@
+{
+  "database_type" : "postgres",
+  "database_url" : "jdbc:postgresql://localhost:5432/postgres",
+  "username" : "otter",
+  "password" : "otter",
+  "upload_code" : "XUGDE244W69DXBPPV3W4",
+  "upload_url" : "http://localhost:8000/new_result/",
+  "workload_name" : "tpcc"
+}

@@ -54,7 +54,7 @@ def check_disk_usage():
 @task
 def restart_database():
     if CONF['database_type'] == 'postgres':
-        cmd = 'sudo service postgresql restart'
+        cmd = "pg_ctl -D {} restart".format(CONF['postgres_root'])
     else:
         raise Exception("Database Type {} Not Implemented !".format(CONF['database_type']))
     local(cmd)
@@ -89,27 +89,32 @@ def change_conf():
         raise Exception("Database Type {} Not Implemented !".format(CONF['database_type']))
     local(cmd)
 
+@task
+def build_oltpbench():
+    cmd = "ant"
+    with lcd(CONF['oltpbench_home']):
+        local(cmd)
 
 @task
 def load_oltpbench():
-    cmd = "./oltpbenchmark -b {} -c {} --create=true --load=true".\
-          format(CONF['oltpbench_workload'], CONF['oltpbench_config'])
+    cmd = "{}/oltpbenchmark -b {} -c {} --create=true --load=true".\
+          format(CONF['oltpbench_home'], CONF['oltpbench_workload'], CONF['oltpbench_config'])
     with lcd(CONF['oltpbench_home']):  # pylint: disable=not-context-manager
         local(cmd)
 
 
 @task
 def run_oltpbench():
-    cmd = "./oltpbenchmark -b {} -c {} --execute=true -s 5 -o outputfile".\
-          format(CONF['oltpbench_workload'], CONF['oltpbench_config'])
+    cmd = "{}/oltpbenchmark -b {} -c {} --execute=true -s 5 -o outputfile".\
+          format(CONF['oltpbench_home'], CONF['oltpbench_workload'], CONF['oltpbench_config'])
     with lcd(CONF['oltpbench_home']):  # pylint: disable=not-context-manager
         local(cmd)
 
 
 @task
 def run_oltpbench_bg():
-    cmd = "./oltpbenchmark -b {} -c {} --execute=true -s 5 -o outputfile > {} 2>&1 &".\
-          format(CONF['oltpbench_workload'], CONF['oltpbench_config'], CONF['oltpbench_log'])
+    cmd = "{}/oltpbenchmark -b {} -c {} --execute=true -s 5 -o outputfile > {} 2>&1 &".\
+          format(CONF['oltpbench_home'], CONF['oltpbench_workload'], CONF['oltpbench_config'], CONF['oltpbench_log'])
     with lcd(CONF['oltpbench_home']):  # pylint: disable=not-context-manager
         local(cmd)
 
@@ -117,7 +122,7 @@ def run_oltpbench_bg():
 @task
 def run_controller():
     cmd = 'sudo gradle run -PappArgs="-c ' \
-          'config/sample_postgres_config.json -d output/postgres/" --no-daemon'
+          'input_config.json -d output/postgres/" --no-daemon'
     with lcd("../controller"):  # pylint: disable=not-context-manager
         local(cmd)
 

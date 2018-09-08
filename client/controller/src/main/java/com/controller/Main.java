@@ -46,7 +46,7 @@ public class Main {
   private static final String DEFAULT_DIRECTORY = "output";
 
   // Default observation period time (5 minutes)
-  private static final int DEFAULT_TIME_SECONDS = -1;
+  private static final int DEFAULT_TIME_SECONDS = 300;
 
   // Path to JSON schema directory
   private static final String SCHEMA_PATH = "src/main/java/com/controller/json_validation_schema";
