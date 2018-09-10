@@ -15,7 +15,8 @@
             "minval": null,
             "maxval": null,
             "default": "ISO, MDY",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -34,7 +35,8 @@
             "minval": null,
             "maxval": null,
             "default": "postgres",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -53,7 +55,8 @@
             "minval": null,
             "maxval": null,
             "default": "GMT",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -72,7 +75,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -91,7 +95,8 @@
             "minval": null,
             "maxval": null,
             "default": "",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -110,7 +115,8 @@
             "minval": null,
             "maxval": null,
             "default": "",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -129,7 +135,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -148,7 +155,8 @@
             "minval": "0",
             "maxval": "1073741823000",
             "default": "0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -167,7 +175,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -186,7 +195,8 @@
             "minval": "1000",
             "maxval": "600000",
             "default": "60000",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -205,7 +215,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -224,7 +235,8 @@
             "minval": "0.0",
             "maxval": "100.0",
             "default": "0.1",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -243,7 +255,8 @@
             "minval": "0",
             "maxval": "2147483647",
             "default": "50",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -262,7 +275,8 @@
             "minval": "100000",
             "maxval": "2000000000",
             "default": "200000000",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -281,7 +295,8 @@
             "minval": "1",
             "maxval": "262143",
             "default": "3",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -300,7 +315,8 @@
             "minval": "10000",
             "maxval": "2000000000",
             "default": "400000000",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -319,7 +335,8 @@
             "minval": "1000",
             "maxval": "2147483000",
             "default": "60000",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -338,7 +355,8 @@
             "minval": "-1",
             "maxval": "100",
             "default": "20",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -357,7 +375,8 @@
             "minval": "-1",
             "maxval": "10000",
             "default": "-1",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -376,7 +395,8 @@
             "minval": "0.0",
             "maxval": "100.0",
             "default": "0.2",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -395,7 +415,8 @@
             "minval": "0",
             "maxval": "2147483647",
             "default": "50",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -414,7 +435,8 @@
             "minval": "-1",
             "maxval": "2199023254528",
             "default": "-1",
-            "dbms": 1
+            "resource": "1",
+            "dbms": 6
         }
     },
     {
@@ -433,7 +455,8 @@
             "minval": "0",
             "maxval": "2097152",
             "default": "0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -452,7 +475,8 @@
             "minval": null,
             "maxval": null,
             "default": "safe_encoding",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -471,7 +495,8 @@
             "minval": "10",
             "maxval": "10000",
             "default": "200",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -490,7 +515,8 @@
             "minval": "0",
             "maxval": "2097152",
             "default": "0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -509,7 +535,8 @@
             "minval": "0",
             "maxval": "1073741823",
             "default": "100",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -528,7 +555,8 @@
             "minval": "0.0",
             "maxval": "10.0",
             "default": "2.0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -547,7 +575,8 @@
             "minval": "8192",
             "maxval": "8192",
             "default": "8192",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -566,7 +595,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -585,7 +615,8 @@
             "minval": null,
             "maxval": null,
             "default": "",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -604,7 +635,8 @@
             "minval": null,
             "maxval": null,
             "default": "hex",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -623,7 +655,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -642,7 +675,8 @@
             "minval": "0.0",
             "maxval": "1.0",
             "default": "0.5",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -661,7 +695,8 @@
             "minval": "0",
             "maxval": "2097152",
             "default": "0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -680,7 +715,8 @@
             "minval": "30000",
             "maxval": "86400000",
             "default": "300000",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -699,7 +735,8 @@
             "minval": "0",
             "maxval": "2147483647000",
             "default": "30000",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -718,7 +755,8 @@
             "minval": null,
             "maxval": null,
             "default": "SQL_ASCII",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -737,7 +775,8 @@
             "minval": null,
             "maxval": null,
             "default": "notice",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -756,7 +795,8 @@
             "minval": null,
             "maxval": null,
             "default": "",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -775,7 +815,8 @@
             "minval": "0",
             "maxval": "100000",
             "default": "0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -794,7 +835,8 @@
             "minval": "0",
             "maxval": "1000",
             "default": "5",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -813,7 +855,8 @@
             "minval": null,
             "maxval": null,
             "default": "",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -832,7 +875,8 @@
             "minval": null,
             "maxval": null,
             "default": "partition",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -851,7 +895,8 @@
             "minval": "0.0",
             "maxval": "1.79769e+308",
             "default": "0.005",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -870,7 +915,8 @@
             "minval": "0.0",
             "maxval": "1.79769e+308",
             "default": "0.0025",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -889,7 +935,8 @@
             "minval": "0.0",
             "maxval": "1.79769e+308",
             "default": "0.01",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -908,7 +955,8 @@
             "minval": "0.0",
             "maxval": "1.0",
             "default": "0.1",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -927,7 +975,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -946,7 +995,8 @@
             "minval": null,
             "maxval": null,
             "default": "",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -965,7 +1015,8 @@
             "minval": "0",
             "maxval": "511",
             "default": "448",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -984,7 +1035,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1003,7 +1055,8 @@
             "minval": "1",
             "maxval": "2147483647",
             "default": "1000",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1022,7 +1075,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1041,7 +1095,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1060,7 +1115,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1079,7 +1135,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1098,7 +1155,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1117,7 +1175,8 @@
             "minval": "1",
             "maxval": "10000",
             "default": "100",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1136,7 +1195,8 @@
             "minval": null,
             "maxval": null,
             "default": "",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1155,7 +1215,8 @@
             "minval": null,
             "maxval": null,
             "default": "pg_catalog.simple",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1174,7 +1235,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1193,7 +1255,8 @@
             "minval": null,
             "maxval": null,
             "default": "read committed",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1212,7 +1275,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1231,7 +1295,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1250,7 +1315,8 @@
             "minval": null,
             "maxval": null,
             "default": "$libdir",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1269,7 +1335,8 @@
             "minval": null,
             "maxval": null,
             "default": "posix",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1288,7 +1355,8 @@
             "minval": "8192",
             "maxval": "17592186036224",
             "default": "4294967296",
-            "dbms": 1
+            "resource": "1",
+            "dbms": 6
         }
     },
     {
@@ -1307,7 +1375,8 @@
             "minval": "0",
             "maxval": "0",
             "default": "0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1326,7 +1395,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1345,7 +1415,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1364,7 +1435,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1383,7 +1455,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1402,7 +1475,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1421,7 +1495,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1440,7 +1515,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1459,7 +1535,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1478,7 +1555,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1497,7 +1575,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1516,7 +1595,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1535,7 +1615,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1554,7 +1635,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1573,7 +1655,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1592,7 +1675,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1611,7 +1695,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1630,7 +1715,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1649,7 +1735,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1668,7 +1755,8 @@
             "minval": null,
             "maxval": null,
             "default": "PostgreSQL",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1687,7 +1775,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1706,7 +1795,8 @@
             "minval": null,
             "maxval": null,
             "default": "",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1725,7 +1815,8 @@
             "minval": "-15",
             "maxval": "3",
             "default": "0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1744,7 +1835,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1763,7 +1855,8 @@
             "minval": "1",
             "maxval": "2147483647",
             "default": "8",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1782,7 +1875,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1801,7 +1895,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1820,7 +1915,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1839,7 +1935,8 @@
             "minval": "1",
             "maxval": "10",
             "default": "5",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1858,7 +1955,8 @@
             "minval": "0",
             "maxval": "2147483647",
             "default": "0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1877,7 +1975,8 @@
             "minval": "0",
             "maxval": "2147483647",
             "default": "0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1896,7 +1995,8 @@
             "minval": "0.0",
             "maxval": "1.0",
             "default": "0.0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1915,7 +2015,8 @@
             "minval": "1.5",
             "maxval": "2.0",
             "default": "2.0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1934,7 +2035,8 @@
             "minval": "2",
             "maxval": "2147483647",
             "default": "12",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1953,7 +2055,8 @@
             "minval": "0",
             "maxval": "2147483647",
             "default": "0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1972,7 +2075,8 @@
             "minval": "65536",
             "maxval": "2199023254528",
             "default": "4194304",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -1991,7 +2095,8 @@
             "minval": null,
             "maxval": null,
             "default": "",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2010,7 +2115,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2029,7 +2135,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2048,7 +2155,8 @@
             "minval": null,
             "maxval": null,
             "default": "try",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2067,7 +2175,8 @@
             "minval": null,
             "maxval": null,
             "default": "",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2086,7 +2195,8 @@
             "minval": "0",
             "maxval": "2147483647",
             "default": "0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2105,7 +2215,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2124,7 +2235,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2143,7 +2255,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2162,7 +2275,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2181,7 +2295,8 @@
             "minval": "-1.0",
             "maxval": "1.79769e+308",
             "default": "100000.0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2200,7 +2315,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2219,7 +2335,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2238,7 +2355,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2257,7 +2375,8 @@
             "minval": "-1.0",
             "maxval": "1.79769e+308",
             "default": "500000.0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2276,7 +2395,8 @@
             "minval": "-1.0",
             "maxval": "1.79769e+308",
             "default": "500000.0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2295,7 +2415,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2314,7 +2435,8 @@
             "minval": null,
             "maxval": null,
             "default": "llvmjit",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2333,7 +2455,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2352,7 +2475,8 @@
             "minval": "1",
             "maxval": "2147483647",
             "default": "8",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2371,7 +2495,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2390,7 +2515,8 @@
             "minval": null,
             "maxval": null,
             "default": "",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2409,7 +2535,8 @@
             "minval": null,
             "maxval": null,
             "default": "C",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2428,7 +2555,8 @@
             "minval": null,
             "maxval": null,
             "default": "C",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2447,7 +2575,8 @@
             "minval": null,
             "maxval": null,
             "default": "",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2466,7 +2595,8 @@
             "minval": null,
             "maxval": null,
             "default": "C",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2485,7 +2615,8 @@
             "minval": null,
             "maxval": null,
             "default": "C",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2504,7 +2635,8 @@
             "minval": null,
             "maxval": null,
             "default": "C",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2523,7 +2655,8 @@
             "minval": null,
             "maxval": null,
             "default": "localhost",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2542,7 +2675,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2561,7 +2695,8 @@
             "minval": null,
             "maxval": null,
             "default": "",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2580,7 +2715,8 @@
             "minval": "0",
             "maxval": "2147483647",
             "default": "0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2599,7 +2735,8 @@
             "minval": "-1",
             "maxval": "2147483647",
             "default": "-1",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2618,7 +2755,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2637,7 +2775,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2656,7 +2795,8 @@
             "minval": null,
             "maxval": null,
             "default": "stderr",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2675,7 +2815,8 @@
             "minval": null,
             "maxval": null,
             "default": "log",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2694,7 +2835,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2713,7 +2855,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2732,7 +2875,8 @@
             "minval": null,
             "maxval": null,
             "default": "default",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2751,7 +2895,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2770,7 +2915,8 @@
             "minval": "0",
             "maxval": "511",
             "default": "384",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2789,7 +2935,8 @@
             "minval": null,
             "maxval": null,
             "default": "postgresql-%Y-%m-%d_%H%M%S.log",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2808,7 +2955,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2827,7 +2975,8 @@
             "minval": null,
             "maxval": null,
             "default": "%m [%p] ",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2846,7 +2995,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2865,7 +3015,8 @@
             "minval": "-1",
             "maxval": "2147483647",
             "default": "-1",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2884,7 +3035,8 @@
             "minval": null,
             "maxval": null,
             "default": "error",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2903,7 +3055,8 @@
             "minval": null,
             "maxval": null,
             "default": "warning",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2922,7 +3075,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2941,7 +3095,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2960,7 +3115,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2979,7 +3135,8 @@
             "minval": "0",
             "maxval": "2147483640000",
             "default": "86400000",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -2998,7 +3155,8 @@
             "minval": "0",
             "maxval": "2147482624",
             "default": "10485760",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3017,7 +3175,8 @@
             "minval": null,
             "maxval": null,
             "default": "none",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3036,7 +3195,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3055,7 +3215,8 @@
             "minval": "-1",
             "maxval": "2199023254528",
             "default": "-1",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3074,7 +3235,8 @@
             "minval": null,
             "maxval": null,
             "default": "GMT",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3093,7 +3255,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3112,7 +3275,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3131,7 +3295,8 @@
             "minval": "1048576",
             "maxval": "2199023254528",
             "default": "67108864",
-            "dbms": 1
+            "resource": "1",
+            "dbms": 6
         }
     },
     {
@@ -3150,7 +3315,8 @@
             "minval": "1",
             "maxval": "262143",
             "default": "100",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3169,7 +3335,8 @@
             "minval": "25",
             "maxval": "2147483647",
             "default": "1000",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3188,7 +3355,8 @@
             "minval": "100",
             "maxval": "100",
             "default": "100",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3207,7 +3375,8 @@
             "minval": "63",
             "maxval": "63",
             "default": "63",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3226,7 +3395,8 @@
             "minval": "32",
             "maxval": "32",
             "default": "32",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3245,7 +3415,8 @@
             "minval": "10",
             "maxval": "2147483647",
             "default": "64",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3264,7 +3435,8 @@
             "minval": "0",
             "maxval": "262143",
             "default": "4",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3283,7 +3455,8 @@
             "minval": "0",
             "maxval": "1024",
             "default": "2",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3302,7 +3475,8 @@
             "minval": "0",
             "maxval": "1024",
             "default": "8",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3321,7 +3495,8 @@
             "minval": "0",
             "maxval": "1024",
             "default": "2",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3340,7 +3515,8 @@
             "minval": "0",
             "maxval": "2147483647",
             "default": "2",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3359,7 +3535,8 @@
             "minval": "-2147483648",
             "maxval": "2147483647",
             "default": "-2",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3378,7 +3555,8 @@
             "minval": "10",
             "maxval": "2147483647",
             "default": "64",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3397,7 +3575,8 @@
             "minval": "0",
             "maxval": "262143",
             "default": "0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3416,7 +3595,8 @@
             "minval": "0",
             "maxval": "262143",
             "default": "10",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3435,7 +3615,8 @@
             "minval": "102400",
             "maxval": "2199023254528",
             "default": "102400",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3454,7 +3635,8 @@
             "minval": "-1",
             "maxval": "2147483647",
             "default": "30000",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3473,7 +3655,8 @@
             "minval": "-1",
             "maxval": "2147483647",
             "default": "30000",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3492,7 +3675,8 @@
             "minval": "0",
             "maxval": "262143",
             "default": "2",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3511,7 +3695,8 @@
             "minval": "0",
             "maxval": "262143",
             "default": "10",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3530,7 +3715,8 @@
             "minval": "2097152",
             "maxval": "2251799812636672",
             "default": "1073741824",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3549,7 +3735,8 @@
             "minval": "0",
             "maxval": "262143",
             "default": "8",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3568,7 +3755,8 @@
             "minval": "0",
             "maxval": "5864062009344",
             "default": "524288",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3587,7 +3775,8 @@
             "minval": "0",
             "maxval": "5864062009344",
             "default": "8388608",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3606,7 +3795,8 @@
             "minval": "2097152",
             "maxval": "2251799812636672",
             "default": "83886080",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3625,7 +3815,8 @@
             "minval": "-1",
             "maxval": "5184000000",
             "default": "-1",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3644,7 +3835,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3663,7 +3855,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3682,7 +3875,8 @@
             "minval": "0.0",
             "maxval": "1.79769e+308",
             "default": "1000.0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3701,7 +3895,8 @@
             "minval": "0.0",
             "maxval": "1.79769e+308",
             "default": "0.1",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3720,7 +3915,8 @@
             "minval": null,
             "maxval": null,
             "default": "md5",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3739,7 +3935,8 @@
             "minval": "1",
             "maxval": "65535",
             "default": "5432",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3758,7 +3955,8 @@
             "minval": "0",
             "maxval": "2147000",
             "default": "0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3777,7 +3975,8 @@
             "minval": "0",
             "maxval": "60000",
             "default": "0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3796,7 +3995,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3815,7 +4015,8 @@
             "minval": "0.0",
             "maxval": "1.79769e+308",
             "default": "4.0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3834,7 +4035,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3853,7 +4055,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3872,7 +4075,8 @@
             "minval": null,
             "maxval": null,
             "default": "\"$user\", public",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3891,7 +4095,8 @@
             "minval": "1073741824",
             "maxval": "1073741824",
             "default": "1073741824",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3910,7 +4115,8 @@
             "minval": "0.0",
             "maxval": "1.79769e+308",
             "default": "1.0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3929,7 +4135,8 @@
             "minval": null,
             "maxval": null,
             "default": "SQL_ASCII",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3948,7 +4155,8 @@
             "minval": null,
             "maxval": null,
             "default": "11beta3",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3967,7 +4175,8 @@
             "minval": "110000",
             "maxval": "110000",
             "default": "110000",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -3986,7 +4195,8 @@
             "minval": null,
             "maxval": null,
             "default": "",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4005,7 +4215,8 @@
             "minval": null,
             "maxval": null,
             "default": "origin",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4024,7 +4235,8 @@
             "minval": "131072",
             "maxval": "8796093014016",
             "default": "8388608",
-            "dbms": 1
+            "resource": "1",
+            "dbms": 6
         }
     },
     {
@@ -4043,7 +4255,8 @@
             "minval": null,
             "maxval": null,
             "default": "",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4062,7 +4275,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4081,7 +4295,8 @@
             "minval": null,
             "maxval": null,
             "default": "",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4100,7 +4315,8 @@
             "minval": null,
             "maxval": null,
             "default": "server.crt",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4119,7 +4335,8 @@
             "minval": null,
             "maxval": null,
             "default": "none",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4138,7 +4355,8 @@
             "minval": null,
             "maxval": null,
             "default": "",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4157,7 +4375,8 @@
             "minval": null,
             "maxval": null,
             "default": "",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4176,7 +4395,8 @@
             "minval": null,
             "maxval": null,
             "default": "none",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4195,7 +4415,8 @@
             "minval": null,
             "maxval": null,
             "default": "server.key",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4214,7 +4435,8 @@
             "minval": null,
             "maxval": null,
             "default": "",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4233,7 +4455,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4252,7 +4475,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4271,7 +4495,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4290,7 +4515,8 @@
             "minval": "0",
             "maxval": "2147483647",
             "default": "0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4309,7 +4535,8 @@
             "minval": null,
             "maxval": null,
             "default": "pg_stat_tmp",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4328,7 +4555,8 @@
             "minval": "0",
             "maxval": "262143",
             "default": "3",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4347,7 +4575,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4366,7 +4595,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4385,7 +4615,8 @@
             "minval": null,
             "maxval": null,
             "default": "",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4404,7 +4635,8 @@
             "minval": null,
             "maxval": null,
             "default": "local0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4423,7 +4655,8 @@
             "minval": null,
             "maxval": null,
             "default": "postgres",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4442,7 +4675,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4461,7 +4695,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4480,7 +4715,8 @@
             "minval": "0",
             "maxval": "2147483647",
             "default": "0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4499,7 +4735,8 @@
             "minval": "0",
             "maxval": "2147483647000",
             "default": "0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4518,7 +4755,8 @@
             "minval": "0",
             "maxval": "2147483647000",
             "default": "0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4537,7 +4775,8 @@
             "minval": "819200",
             "maxval": "8796093014016",
             "default": "8388608",
-            "dbms": 1
+            "resource": "1",
+            "dbms": 6
         }
     },
     {
@@ -4556,7 +4795,8 @@
             "minval": "-1",
             "maxval": "2199023254528",
             "default": "-1",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4575,7 +4815,8 @@
             "minval": null,
             "maxval": null,
             "default": "",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4594,7 +4835,8 @@
             "minval": null,
             "maxval": null,
             "default": "",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4613,7 +4855,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4632,7 +4875,8 @@
             "minval": null,
             "maxval": null,
             "default": "log",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4651,7 +4895,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4670,7 +4915,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4689,7 +4935,8 @@
             "minval": "100",
             "maxval": "102400",
             "default": "1024",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4708,7 +4955,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4727,7 +4975,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4746,7 +4995,8 @@
             "minval": null,
             "maxval": null,
             "default": "none",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4765,7 +5015,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4784,7 +5035,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4803,7 +5055,8 @@
             "minval": null,
             "maxval": null,
             "default": "default",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4822,7 +5075,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4841,7 +5095,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4860,7 +5115,8 @@
             "minval": null,
             "maxval": null,
             "default": "/tmp",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4879,7 +5135,8 @@
             "minval": null,
             "maxval": null,
             "default": "",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4898,7 +5155,8 @@
             "minval": "0",
             "maxval": "511",
             "default": "511",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4917,7 +5175,8 @@
             "minval": null,
             "maxval": null,
             "default": "on",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4936,7 +5195,8 @@
             "minval": "0.0",
             "maxval": "10000000000.0",
             "default": "0.1",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4955,7 +5215,8 @@
             "minval": "0",
             "maxval": "100",
             "default": "0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4974,7 +5235,8 @@
             "minval": "1",
             "maxval": "10000",
             "default": "200",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -4993,7 +5255,8 @@
             "minval": "0",
             "maxval": "10000",
             "default": "20",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -5012,7 +5275,8 @@
             "minval": "0",
             "maxval": "10000",
             "default": "1",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -5031,7 +5295,8 @@
             "minval": "0",
             "maxval": "10000",
             "default": "10",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -5050,7 +5315,8 @@
             "minval": "0",
             "maxval": "1000000",
             "default": "0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -5069,7 +5335,8 @@
             "minval": "0",
             "maxval": "1000000000",
             "default": "50000000",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -5088,7 +5355,8 @@
             "minval": "0",
             "maxval": "2000000000",
             "default": "150000000",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -5107,7 +5375,8 @@
             "minval": "0",
             "maxval": "1000000000",
             "default": "5000000",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -5126,7 +5395,8 @@
             "minval": "0",
             "maxval": "2000000000",
             "default": "150000000",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -5145,7 +5415,8 @@
             "minval": "8192",
             "maxval": "8192",
             "default": "8192",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -5164,7 +5435,8 @@
             "minval": "-1",
             "maxval": "2147475456",
             "default": "-1",
-            "dbms": 1
+            "resource": "1",
+            "dbms": 6
         }
     },
     {
@@ -5183,7 +5455,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -5202,7 +5475,8 @@
             "minval": null,
             "maxval": null,
             "default": "",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -5221,7 +5495,8 @@
             "minval": "0",
             "maxval": "2147483647",
             "default": "0",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -5240,7 +5515,8 @@
             "minval": null,
             "maxval": null,
             "default": "replica",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -5259,7 +5535,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -5278,7 +5555,8 @@
             "minval": "0",
             "maxval": "2147483000",
             "default": "10000",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -5297,7 +5575,8 @@
             "minval": "0",
             "maxval": "2147483647",
             "default": "60000",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -5316,7 +5595,8 @@
             "minval": "1",
             "maxval": "2147483647",
             "default": "5000",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -5335,7 +5615,8 @@
             "minval": "1048576",
             "maxval": "1073741824",
             "default": "16777216",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -5354,7 +5635,8 @@
             "minval": "0",
             "maxval": "2147483647",
             "default": "60000",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -5373,7 +5655,8 @@
             "minval": null,
             "maxval": null,
             "default": "open_datasync",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -5392,7 +5675,8 @@
             "minval": "1",
             "maxval": "10000",
             "default": "200",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -5411,7 +5695,8 @@
             "minval": "0",
             "maxval": "17592186036224",
             "default": "1048576",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -5430,7 +5715,8 @@
             "minval": "65536",
             "maxval": "2199023254528",
             "default": "4194304",
-            "dbms": 1
+            "resource": "1",
+            "dbms": 6
         }
     },
     {
@@ -5449,7 +5735,8 @@
             "minval": null,
             "maxval": null,
             "default": "base64",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -5468,7 +5755,8 @@
             "minval": null,
             "maxval": null,
             "default": "content",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     },
     {
@@ -5487,7 +5775,8 @@
             "minval": null,
             "maxval": null,
             "default": "off",
-            "dbms": 1
+            "resource": "4",
+            "dbms": 6
         }
     }
 ]

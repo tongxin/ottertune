@@ -325,6 +325,16 @@ PARAMS['xmlbinary']['tunable'] = 'no'
 PARAMS['xmloption']['tunable'] = 'no'
 PARAMS['zero_damaged_pages']['tunable'] = 'no'
 
+for k, v in PARAMS.items():
+    v['resource'] = '4'
+
+PARAMS['effective_cache_size']['resource'] = '1'
+PARAMS['maintenance_work_mem']['resource'] = '1'
+PARAMS['shared_buffers']['resource'] = '1'
+PARAMS['temp_buffers']['resource'] = '1'
+PARAMS['wal_buffers']['resource'] = '1'
+PARAMS['work_mem']['resource'] = '1'
+PARAMS['autovacuum_work_mem']['resource'] = '1'
 
 with open('tunable_params.txt', 'w') as f:
     for opt in ['yes', 'maybe', 'no', '']:
@@ -560,7 +570,7 @@ for pname, pinfo in sorted(PARAMS.items()):
     for k, v in list(fields.items()):
         if v is not None and not isinstance(v, str) and not isinstance(v, bool):
             fields[k] = str(v)
-    fields['dbms'] = 1
+    fields['dbms'] = 6
     entry['fields'] = fields
     JSON_SETTINGS.append(entry)
     SORTED_KNOB_NAMES.append(pname)
