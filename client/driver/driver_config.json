@@ -11,6 +11,6 @@
   "oltpbench_workload": "tpcc",
   "save_path": "/Users/bai/_db/ottertune_result/",
   "upload_url" : "http://localhost:8000/new_result/",
-  "upload_code" : "THLVISWRAF64RE9BCTKC",
+  "upload_code" : "K93O18LHAARTBVYDQZ7M",
   "oltpbench_log" : "/Users/bai/_db/ottertune/client/driver/oltp.log"
 }
